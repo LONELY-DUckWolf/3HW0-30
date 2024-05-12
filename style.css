@@ -2,11 +2,11 @@
     background-color: black;
     width: 100px;
     height: 100px;
-    animation-name: box-runing;
+    animation-name: koreni;
     animation-duration: 3s;
     animation-iteration-count: infinite;
 }
-@keyframes box-runing{
+@keyframes koreni{
     25%{
 transform: translate(0,500px);
 background-color:blue ;
